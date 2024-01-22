@@ -3,3 +3,4 @@ title: "First China Pharma R user group meeting"
 ---
 
 
+<img src="resources/grouped.png" width="100%">

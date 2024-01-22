@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "Open Source Clinical Reporting summeR"
-  description: "R programing workshop/conference with the focus of clinical reporting"
-  site-url: https://insightsengineering.github.io/nest-2023-summeR
+  title: "First China Pharma R user group meeting"
+  description: "Our first meet-up"
+  site-url: https://github.com/pharmarug/pharmarug-2023
   search: true
   navbar:
     left:
